@@ -1,0 +1,22 @@
+[
+  [
+    "../../velox/benchmarks/basic/SimpleCastExpr.cpp",
+    "castTimestampDateMedium",
+    5891450.506145605
+  ],
+  [
+    "../../velox/benchmarks/basic/SimpleCastExpr.cpp",
+    "castTimestampDateLarge",
+    50589675.57485856
+  ],
+  [
+    "../../velox/benchmarks/basic/SimpleCastExpr.cpp",
+    "castTimestampDateAdjustTimeZoneMedium",
+    5946616.47502145
+  ],
+  [
+    "../../velox/benchmarks/basic/SimpleCastExpr.cpp",
+    "castTimestampDateAdjustTimeZoneLarge",
+    50625817.76434012
+  ]
+]

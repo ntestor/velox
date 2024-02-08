@@ -1,0 +1,32 @@
+[
+  [
+    "../../velox/benchmarks/ExpressionBenchmarkBuilder.cpp",
+    "-",
+    0
+  ],
+  [
+    "../../velox/benchmarks/ExpressionBenchmarkBuilder.cpp",
+    "-",
+    0
+  ],
+  [
+    "../../velox/benchmarks/ExpressionBenchmarkBuilder.cpp",
+    "prefix##starts_with",
+    14490178.878826993
+  ],
+  [
+    "../../velox/benchmarks/ExpressionBenchmarkBuilder.cpp",
+    "substring##substring",
+    29891947.70531868
+  ],
+  [
+    "../../velox/benchmarks/ExpressionBenchmarkBuilder.cpp",
+    "substring##strpos",
+    26949006.986113157
+  ],
+  [
+    "../../velox/benchmarks/ExpressionBenchmarkBuilder.cpp",
+    "suffix##ends_with",
+    14129728.363310182
+  ]
+]

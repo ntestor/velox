@@ -1,0 +1,32 @@
+[
+  [
+    "../../velox/benchmarks/basic/SelectivityVector.cpp",
+    "sumBaselineAll",
+    79568.3834614744
+  ],
+  [
+    "../../velox/benchmarks/basic/SelectivityVector.cpp",
+    "sumSelectivityAll",
+    156106.35519975255
+  ],
+  [
+    "../../velox/benchmarks/basic/SelectivityVector.cpp",
+    "sumSelectivity99PerCent",
+    544324.5561746508
+  ],
+  [
+    "../../velox/benchmarks/basic/SelectivityVector.cpp",
+    "sumSelectivity50PerCent",
+    480431.03979437577
+  ],
+  [
+    "../../velox/benchmarks/basic/SelectivityVector.cpp",
+    "sumSelectivity10PerCent",
+    95073.13218974488
+  ],
+  [
+    "../../velox/benchmarks/basic/SelectivityVector.cpp",
+    "sumSelectivity1PerCent",
+    18471.07073777331
+  ]
+]

@@ -1,0 +1,17 @@
+[
+  [
+    "../../velox/benchmarks/basic/ComparisonConjunct.cpp",
+    "plus",
+    80441.9500224126
+  ],
+  [
+    "../../velox/benchmarks/basic/ComparisonConjunct.cpp",
+    "-",
+    0
+  ],
+  [
+    "../../velox/benchmarks/basic/ComparisonConjunct.cpp",
+    "-",
+    0
+  ]
+]

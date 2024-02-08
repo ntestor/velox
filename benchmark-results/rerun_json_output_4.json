@@ -1,0 +1,55 @@
+{
+    "velox_like_benchmark.json": [
+        [
+            "../../velox/benchmarks/ExpressionBenchmarkBuilder.cpp",
+            "prefix##starts_with",
+            0.19902541553373188
+        ],
+        [
+            "../../velox/benchmarks/ExpressionBenchmarkBuilder.cpp",
+            "suffix##ends_with",
+            0.22369847077680238
+        ]
+    ],
+    "velox_benchmark_basic_simple_arithmetic.json": [
+        [
+            "../../velox/benchmarks/basic/SimpleArithmetic.cpp",
+            "multiplyOutputAlwaysNullMedium",
+            -0.3698165298635966
+        ],
+        [
+            "../../velox/benchmarks/basic/SimpleArithmetic.cpp",
+            "multiplyOutputAlwaysNullLarge",
+            -0.4523450332188079
+        ]
+    ],
+    "velox_benchmark_basic_vector_slice.json": [
+        [
+            "../../velox/benchmarks/basic/VectorSlice.cpp",
+            "rowSlice",
+            0.06773271274333426
+        ]
+    ],
+    "velox_benchmark_basic_simple_cast.json": [
+        [
+            "../../velox/benchmarks/basic/SimpleCastExpr.cpp",
+            "castTimestampDateMedium",
+            -0.09548474757672842
+        ],
+        [
+            "../../velox/benchmarks/basic/SimpleCastExpr.cpp",
+            "castTimestampDateLarge",
+            -0.10128310377012006
+        ],
+        [
+            "../../velox/benchmarks/basic/SimpleCastExpr.cpp",
+            "castTimestampDateAdjustTimeZoneMedium",
+            -0.09759462276469544
+        ],
+        [
+            "../../velox/benchmarks/basic/SimpleCastExpr.cpp",
+            "castTimestampDateAdjustTimeZoneLarge",
+            -0.10461850111731152
+        ]
+    ]
+}

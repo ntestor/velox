@@ -1,0 +1,12 @@
+[
+  [
+    "../../velox/benchmarks/basic/VectorSlice.cpp",
+    "%flatCopy",
+    375.83146469690456
+  ],
+  [
+    "../../velox/benchmarks/basic/VectorSlice.cpp",
+    "rowSlice",
+    470.1830456836472
+  ]
+]

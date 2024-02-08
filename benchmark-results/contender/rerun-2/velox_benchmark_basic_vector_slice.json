@@ -1,0 +1,7 @@
+[
+  [
+    "../../velox/benchmarks/basic/VectorSlice.cpp",
+    "rowSlice",
+    470.3242575590501
+  ]
+]

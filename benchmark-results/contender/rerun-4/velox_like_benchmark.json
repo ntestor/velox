@@ -1,0 +1,22 @@
+[
+  [
+    "../../velox/benchmarks/ExpressionBenchmarkBuilder.cpp",
+    "-",
+    0
+  ],
+  [
+    "../../velox/benchmarks/ExpressionBenchmarkBuilder.cpp",
+    "-",
+    0
+  ],
+  [
+    "../../velox/benchmarks/ExpressionBenchmarkBuilder.cpp",
+    "prefix##starts_with",
+    11481983.145067604
+  ],
+  [
+    "../../velox/benchmarks/ExpressionBenchmarkBuilder.cpp",
+    "suffix##ends_with",
+    10820720.714845497
+  ]
+]

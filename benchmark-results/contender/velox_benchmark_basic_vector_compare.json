@@ -1,0 +1,32 @@
+[
+  [
+    "../../velox/benchmarks/basic/VectorCompare.cpp",
+    "compareSimilarSimpleFlat",
+    8962.732330942687
+  ],
+  [
+    "../../velox/benchmarks/basic/VectorCompare.cpp",
+    "compareSimilarSimpleFlatNoDispatch",
+    1661.019124349315
+  ],
+  [
+    "../../velox/benchmarks/basic/VectorCompare.cpp",
+    "compareSimilarArray",
+    112037.70221784871
+  ],
+  [
+    "../../velox/benchmarks/basic/VectorCompare.cpp",
+    "compareSimilarMap",
+    392854.122643026
+  ],
+  [
+    "../../velox/benchmarks/basic/VectorCompare.cpp",
+    "compareSimilarRow",
+    50738.308714062834
+  ],
+  [
+    "../../velox/benchmarks/basic/VectorCompare.cpp",
+    "-",
+    0
+  ]
+]

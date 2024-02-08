@@ -1,0 +1,17 @@
+[
+  [
+    "../../velox/benchmarks/basic/LikeTpchBenchmark.cpp",
+    "wildcardExactlyN",
+    4328791.846026865
+  ],
+  [
+    "../../velox/benchmarks/basic/LikeTpchBenchmark.cpp",
+    "wildcardAtLeastN",
+    4164207.392510689
+  ],
+  [
+    "../../velox/benchmarks/basic/LikeTpchBenchmark.cpp",
+    "-",
+    0
+  ]
+]

@@ -1,0 +1,12 @@
+[
+  [
+    "../../velox/benchmarks/basic/FeatureNormalization.cpp",
+    "normalize",
+    1517152.9029355582
+  ],
+  [
+    "../../velox/benchmarks/basic/FeatureNormalization.cpp",
+    "normalizeConstant",
+    1260334.111402547
+  ]
+]
